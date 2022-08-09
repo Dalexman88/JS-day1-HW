@@ -1,0 +1,12 @@
+#problem 1
+
+function multiply(a, b){
+  return a * b
+}
+
+
+# Problem 2
+
+function squareArea(A){
+   return Number(Math.pow(2 * A / 3.1416, 2).toFixed(2))
+}
